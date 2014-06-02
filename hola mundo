@@ -1,0 +1,8 @@
+#include 
+int main(int argc, char *argv[]) 
+{             
+printf("Hola Mundo");             
+return 0; }
+
+URL del artículo: http://www.ejemplode.com/28-c/c++/137-ejemplo_de_hola_mundo_en_c_y_c++.html
+Fuente: Ejemplo de Hola Mundo en C y C++
